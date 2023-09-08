@@ -1,0 +1,4 @@
+langchain
+streamlit
+streamlit_chat
+openai
